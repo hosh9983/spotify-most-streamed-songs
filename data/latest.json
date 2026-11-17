@@ -1,7 +1,7 @@
 {
   "date": "2026-11-17",
-  "tracked_songs": 83,
-  "songs_with_data": 83,
+  "tracked_songs": 84,
+  "songs_with_data": 84,
   "source": "https://spotify.checkleaked.cc/spotify-play-count-api",
   "notice": "Unofficial. The numbers are the play counts Spotify shows on its public pages; not affiliated with Spotify.",
   "songs": [
@@ -87,7 +87,8 @@
     {"position": 80, "id": "7DtkUGsPCKRRGXbWyaOE4M", "answered_id": "7DtkUGsPCKRRGXbWyaOE4M", "name": "Let It Show (Instrumental)", "artists": ["HAN"], "playcount": 392944, "daily_streams": 323, "no_daily_reason": null, "daily_streams_change": -48, "daily_streams_change_pct": -12.938, "streams_7d": 2408, "url": "https://open.spotify.com/track/7DtkUGsPCKRRGXbWyaOE4M"},
     {"position": 81, "id": "6kBtnIKoYiFaKocEAjWqrE", "answered_id": "6kBtnIKoYiFaKocEAjWqrE", "name": "Destiny - Instrumental", "artists": ["Seungmin"], "playcount": 306946, "daily_streams": 204, "no_daily_reason": null, "daily_streams_change": -30, "daily_streams_change_pct": -12.8205, "streams_7d": 1404, "url": "https://open.spotify.com/track/6kBtnIKoYiFaKocEAjWqrE"},
     {"position": 82, "id": "1wKT6EERQcborHg2nAZh1z", "answered_id": "1wKT6EERQcborHg2nAZh1z", "name": "My Destiny - Instrumental", "artists": ["Seungmin"], "playcount": 305023, "daily_streams": 256, "no_daily_reason": null, "daily_streams_change": -43, "daily_streams_change_pct": -14.3813, "streams_7d": 1620, "url": "https://open.spotify.com/track/1wKT6EERQcborHg2nAZh1z"},
-    {"position": 83, "id": "67HOYw6sTfDpyQW5qozhfY", "answered_id": "67HOYw6sTfDpyQW5qozhfY", "name": "GUILTY PLEASURE (Inst.)", "artists": ["I.N"], "playcount": 163741, "daily_streams": 4975, "no_daily_reason": null, "daily_streams_change": -531, "daily_streams_change_pct": -9.644, "streams_7d": 43891, "url": "https://open.spotify.com/track/67HOYw6sTfDpyQW5qozhfY"}
+    {"position": 83, "id": "67HOYw6sTfDpyQW5qozhfY", "answered_id": "67HOYw6sTfDpyQW5qozhfY", "name": "GUILTY PLEASURE (Inst.)", "artists": ["I.N"], "playcount": 163741, "daily_streams": 4975, "no_daily_reason": null, "daily_streams_change": -531, "daily_streams_change_pct": -9.644, "streams_7d": 43891, "url": "https://open.spotify.com/track/67HOYw6sTfDpyQW5qozhfY"},
+    {"position": 84, "id": "0NGsyPI6OaToB8UJVUCOCE", "answered_id": "0NGsyPI6OaToB8UJVUCOCE", "name": "NO RETURN", "artists": ["I.N"], "playcount": 0, "daily_streams": null, "no_daily_reason": "no_earlier_count", "daily_streams_change": null, "daily_streams_change_pct": null, "streams_7d": null, "url": "https://open.spotify.com/track/0NGsyPI6OaToB8UJVUCOCE"}
   ],
   "not_updated": [],
   "unknown_ids": []
