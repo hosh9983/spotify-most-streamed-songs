@@ -1,6 +1,6 @@
 # Most-streamed songs on Spotify
 
-Total and daily Spotify streams on **2026-11-21** (UTC) of the 84 songs in [`tracks.txt`](tracks.txt). Updated once a day. Only the tracked songs are ranked: this is not a ranking of every song on Spotify.
+Total and daily Spotify streams on **2026-11-22** (UTC) of the 84 songs in [`tracks.txt`](tracks.txt). Updated once a day. Only the tracked songs are ranked: this is not a ranking of every song on Spotify.
 
 Total streams is the play count Spotify shows for the song, counted since its release. Daily streams is that count minus the same song's count one day earlier, and 7-day streams the same over seven days; — means there is no figure: no earlier count to compare with yet, a count below 1,000 plays (which Spotify shows as 0), or a change that is not streams, such as the counts of two different releases of the song (the notes under the daily table say which). Spotify refreshes play counts roughly once a day, not at the moment this tracker reads them: if a count was not refreshed in between, that day shows 0 and the next day covers two days.
 
@@ -10,147 +10,147 @@ Total streams is the play count Spotify shows for the song, counted since its re
 
 | # | Song | Artist | Total streams | Daily streams | 7-day streams |
 |--:|:--|:--|--:|--:|--:|
-| 1 | [ReawakeR (feat. Felix of Stray Kids)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | LiSA, Felix of Stray Kids | 112,989,050 | 73,035 | 492,375 |
-| 2 | [Unfair (Felix)](https://open.spotify.com/track/15fpZUMOQD9ONTjxITFXFT) | Stray Kids | 95,981,258 | 60,303 | 406,667 |
-| 3 | [Railway (Bang Chan)](https://open.spotify.com/track/3sN9AWbeDXQ0AeRlfyriX2) | Stray Kids | 83,983,256 | 59,546 | 405,373 |
-| 4 | [Mirror Mirror](https://open.spotify.com/track/59WuWdDH06AYXgdoMENEa3) | F.HERO, MILLI, Changbin | 82,282,589 | 23,511 | 151,616 |
-| 5 | [Truman (HAN & Felix)](https://open.spotify.com/track/4DEbsCe0w8CrwdMm8WpdzO) | Stray Kids | 75,641,951 | 57,723 | 400,702 |
-| 6 | [So Good (Hyunjin)](https://open.spotify.com/track/18CEEhZoQBHBiGfGANm0zJ) | Stray Kids | 70,848,718 | 43,211 | 289,218 |
-| 7 | [ESCAPE (Bang Chan & Hyunjin)](https://open.spotify.com/track/5v6c5XtD3zKPvgUknF7h9K) | Stray Kids | 70,087,806 | 61,716 | 419,474 |
-| 8 | [Rush (feat. PinkPantheress & Hyunjin of Stray Kids)](https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc) | Troye Sivan, PinkPantheress, Hyunjin | 68,721,775 | 29,907 | 207,059 |
-| 9 | [Hold my hand (HAN)](https://open.spotify.com/track/6U9CTAof4KBnyzDt8OYY75) | Stray Kids | 63,741,228 | 56,217 | 371,013 |
-| 10 | [Youth (Lee Know)](https://open.spotify.com/track/6fOLPHRGb6putSY6xFk45t) | Stray Kids | 59,885,274 | 51,036 | 354,593 |
-| 11 | [Deep end (Felix)](https://open.spotify.com/track/3VMeAc0SlgLaS9RzA8TSxH) | Stray Kids | 58,534,628 | 20,278 | 138,768 |
-| 12 | [Maknae On Top (I.N)](https://open.spotify.com/track/1J0qupz0gVGSB5jcRY35tL) | Stray Kids, I.N, Bang Chan, Changbin | 54,603,170 | 30,180 | 205,946 |
-| 13 | [HALLUCINATION (I.N)](https://open.spotify.com/track/6tVyzdoIKEtPQmhC1oZB7d) | Stray Kids | 54,426,800 | 44,003 | 301,835 |
-| 14 | [Drive (Bang Chan, Lee Know)](https://open.spotify.com/track/0hLvtmoexLKl14LrzxOYRt) | Stray Kids | 52,155,493 | 24,215 | 162,011 |
-| 15 | [Limbo (Lee Know)](https://open.spotify.com/track/0nuXhivBOFDiriWCpdyU93) | Stray Kids | 50,272,038 | 24,688 | 169,019 |
-| 16 | [CINEMA (Lee Know & Seungmin)](https://open.spotify.com/track/2StQuhn6KdemQlwsvLgwBy) | Stray Kids | 47,519,292 | 48,747 | 338,578 |
-| 17 | [Burnin’ Tires (Changbin & I.N)](https://open.spotify.com/track/4Sz5KwMxHQnJPf64wJW5aq) | Stray Kids | 46,610,465 | 40,244 | 271,205 |
-| 18 | [Here Always](https://open.spotify.com/track/2WdnAdw7zpgU0FRkGiRV8n) | Seungmin | 45,744,002 | 11,761 | 73,756 |
-| 19 | [As we are (Seungmin)](https://open.spotify.com/track/1QhF4HWFQ3YFzFOuWUpDP0) | Stray Kids | 40,387,229 | 34,523 | 228,762 |
-| 20 | [Connected (Bang Chan)](https://open.spotify.com/track/5iEXsQlfmHmw6GE46lM0Pl) | Stray Kids | 39,735,867 | 15,322 | 95,418 |
-| 21 | [ULTRA (Changbin)](https://open.spotify.com/track/7kgRKpUaw2kQOAUL5XyxLP) | Stray Kids | 38,225,050 | 29,100 | 191,056 |
-| 22 | [i hate to admit (Bang Chan)](https://open.spotify.com/track/6Yg9E0Pm1sgtbzeZBuZN08) | Stray Kids | 37,686,130 | 21,709 | 139,017 |
-| 23 | [Stars and Raindrops (Seungmin)](https://open.spotify.com/track/5kFGqKqHzVVMMI7V7uoID1) | Stray Kids | 35,379,961 | 14,505 | 99,670 |
-| 24 | [Up All Night (Bang Chan, Changbin, Felix, Seungmin)](https://open.spotify.com/track/0bxB5Jie9fGKTIibfYVfei) | Stray Kids | 33,554,156 | 19,507 | 142,355 |
-| 25 | [Phobia](https://open.spotify.com/track/4LMJ8X3a5hNA508YBUJnie) | Seungmin | 32,180,450 | 27,528 | 192,855 |
-| 26 | [Because (Changbin, Felix)](https://open.spotify.com/track/1Iu7bqGwYVB6OGq4uLt2ak) | Stray Kids | 30,565,102 | 16,127 | 105,974 |
-| 27 | [ice.cream (Hyunjin)](https://open.spotify.com/track/07x9Jr01lqjlFycZsfKBae) | Stray Kids | 28,671,476 | 12,699 | 88,185 |
-| 28 | [miss you (Hyunjin)](https://open.spotify.com/track/1BwFLLe233S6HR1ravS3yi) | Stray Kids | 27,879,825 | 13,069 | 88,205 |
-| 29 | [Love Untold (Hyunjin)](https://open.spotify.com/track/1SrsEuRiRoopW2pZDaHgVA) | Stray Kids | 26,426,715 | 11,143 | 73,722 |
-| 30 | [DOODLE (Changbin)](https://open.spotify.com/track/786A4mxiKmPGHA7z7dPA9K) | Stray Kids | 26,317,642 | 7,185 | 47,512 |
-| 31 | [Alien (HAN)](https://open.spotify.com/track/3czfvJgfEDfBT5OKA5qAU5) | Stray Kids | 26,305,286 | 14,421 | 98,912 |
-| 32 | [I GOT IT (HAN)](https://open.spotify.com/track/4atsZkGtoHHPugKK5wzAE1) | Stray Kids | 24,520,799 | 10,671 | 71,049 |
-| 33 | [ZONE (Bang Chan, Changbin, HAN)](https://open.spotify.com/track/56ZpFy1kLsXwtbHWX1CgJ4) | Stray Kids | 24,180,359 | 9,650 | 63,472 |
-| 34 | [Hug Me (I.N)](https://open.spotify.com/track/5gXUFmE5AKFiInKyHVVEnL) | Stray Kids | 23,518,107 | 10,042 | 66,595 |
-| 35 | [RUN (HAN)](https://open.spotify.com/track/4jjaOnFqtAyiYmP7PdTJbO) | Stray Kids | 22,172,897 | 8,844 | 58,225 |
-| 36 | [Close (HAN)](https://open.spotify.com/track/7jcpg7osgYWffx9LmLEoZ4) | Stray Kids | 21,694,638 | 10,555 | 67,342 |
-| 37 | [Wish You Back (HAN)](https://open.spotify.com/track/1ifB8sqR8gd09DSEloo4Du) | Stray Kids | 21,248,514 | 10,590 | 70,311 |
-| 38 | [back to life](https://open.spotify.com/track/0JvJ526shHypEYoxFuU54V) | HAN | 21,077,736 | 93,555 | 655,740 |
-| 39 | [Streetlight (Changbin Feat. Bang Chan)](https://open.spotify.com/track/1Z6NmeYIfN4e8TuEYLFTKL) | Stray Kids | 20,723,395 | 9,891 | 60,749 |
-| 40 | [HaPpY (HAN)](https://open.spotify.com/track/2KHgPAJycXwbZ2S1xuUT9T) | Stray Kids | 17,969,364 | 8,728 | 56,888 |
-| 41 | [Piece of a Puzzle (Changbin, Seungmin)](https://open.spotify.com/track/56uBQujWiOiFMFg1R3TZUJ) | Stray Kids | 17,663,386 | 9,287 | 61,399 |
-| 42 | [Destiny](https://open.spotify.com/track/0eIk5JEHEkVcVrIObqd63v) | Seungmin | 16,515,580 | 9,713 | 62,563 |
-| 43 | [GENIE](https://open.spotify.com/track/3B1kVUGFALavXUt8s9L65V) | HAN, Felix, I.N | 15,058,911 | 21,829 | 159,451 |
-| 44 | [Close to You](https://open.spotify.com/track/6JWBfjrCBDXKtFM1ViEAYU) | Seungmin | 14,612,346 | 8,470 | 53,834 |
-| 45 | [START!](https://open.spotify.com/track/4fdxYCWRK0YXkxepMKsCDG) | Lee Know, Seungmin, I.N | 14,317,126 | 12,030 | 81,388 |
-| 46 | [Updraft](https://open.spotify.com/track/6R5DcaBpYwKdscbXLrzKD3) | HAN | 13,304,410 | 24,945 | 161,513 |
-| 47 | [Slow It Down](https://open.spotify.com/track/381koCmG9eapKdQcRnlRJO) | Felix | 12,611,549 | 83,255 | 550,324 |
-| 48 | [My Destiny](https://open.spotify.com/track/1HYUurIQFLGkgBqE8fd7XH) | Seungmin | 12,369,571 | 10,482 | 71,373 |
-| 49 | [VAY (feat. Changbin)](https://open.spotify.com/track/1V3Zn1TUGzYui1WCVa04ES) | ITZY, Changbin | 11,483,930 | 6,003 | 38,558 |
-| 50 | [LOVER](https://open.spotify.com/track/0Y3PfZNRWl9x1sR50310x0) | Stray Kids | 9,066,154 | 58,357 | 395,741 |
-| 51 | [can't love (feat. HAN (Stray Kids))](https://open.spotify.com/track/1ZuQU3QRHK6NERlaStE0kJ) | can't be blue, HAN | 8,691,007 | 24,465 | 178,338 |
-| 52 | [All I Want Is You (Would You Marry Me? : Original Television Soundtrack)](https://open.spotify.com/track/0x2UMXeCj1in1Q8Zs588lh) | Seungmin | 8,316,470 | 9,292 | 59,974 |
-| 53 | [Let It Show](https://open.spotify.com/track/7rw9yCuNFOqWT0P7rOywgA) | HAN | 7,182,806 | 14,728 | 95,422 |
-| 54 | [REV IT UP](https://open.spotify.com/track/4SRazOO5fe9euHlRcCajIs) | Stray Kids | 6,800,108 | 25,867 | 173,213 |
-| 55 | [Roman Empire](https://open.spotify.com/track/5iYtGMxoTGFGJJtNGefnxt) | Stray Kids | 6,737,921 | 39,183 | 263,047 |
-| 56 | [R&B ME](https://open.spotify.com/track/2wM7umhsdzsrJXg9E8kMMA) | JUN. K, Changbin of Stray Kids | 6,234,186 | 4,383 | 32,769 |
-| 57 | [Middle School 2nd Year (Respect Everyone's Universe)](https://open.spotify.com/track/54JLvGY4q0rsPjbMVvX8HJ) | Kim Chang-Wan, Changbin | 5,415,051 | 2,359 | 17,578 |
-| 58 | [Raining stars](https://open.spotify.com/track/2PloaQw7yKtblu7k2UGU2f) | HAN | 5,329,848 | 39,429 | 267,051 |
-| 59 | [You…Like the wind](https://open.spotify.com/track/1GSWFtZVqnu7iIZPT8ovDM) | Yoon Jisung, Changbin | 4,499,489 | 3,251 | 20,027 |
-| 60 | [Goodbye](https://open.spotify.com/track/0QMz125TrfcQgIw52A3b7a) | Stray Kids | 4,449,069 | 28,876 | 185,418 |
-| 61 | [ReawakeR -English TV ver.- (feat. Felix of Stray Kids)](https://open.spotify.com/track/0EeObg84Go4u3JxB7PUwmp) | LiSA, Felix | 4,413,292 | 3,467 | 24,706 |
-| 62 | [BABY](https://open.spotify.com/track/5hfqzdorco41BCVvJJFQfl) | Stray Kids | 4,317,400 | 24,767 | 182,071 |
-| 63 | [Don’t Say](https://open.spotify.com/track/7vWb889LhNVjIqji3lJZNb) | Stray Kids | 3,780,540 | 20,429 | 139,684 |
-| 64 | [MIC&BRUSH](https://open.spotify.com/track/3h6kvdDczFSkIrcEOdRyTE) | Stray Kids | 3,769,713 | 24,309 | 151,166 |
-| 65 | [The Little Things](https://open.spotify.com/track/6qY41KgIJAaEkWq80mx0vw) | I.N | 2,932,082 | 22,340 | 147,930 |
-| 66 | [Into The Current](https://open.spotify.com/track/0q6r12Fp0O4uzBUTMBMxre) | Seungmin | 2,866,263 | 20,618 | 129,030 |
-| 67 | [Still here](https://open.spotify.com/track/1bpPBNlzoK8ihJ8C2p8ZhX) | Seungmin | 2,499,907 | 17,195 | 105,398 |
-| 68 | [PERFUME](https://open.spotify.com/track/0N29SZJG3H51ykVwPFmsLc) | Stray Kids | 2,413,367 | 12,078 | 83,639 |
-| 69 | [Limbo - (Live)](https://open.spotify.com/track/2khETXPMAQ4noxnk6vd82T) | Lee Know | 2,329,234 | 16,331 | 99,013 |
-| 70 | [My Name](https://open.spotify.com/track/0RXXnzoq8YjYVySeU8aQ9c) | Changbin | 2,176,275 | 13,458 | 85,739 |
-| 71 | [GUILTY PLEASURE](https://open.spotify.com/track/2juf9ePyItPtxRikXNIuI6) | I.N | 1,376,501 | 49,138 | 450,543 |
-| 72 | [Hug Me - (Live)](https://open.spotify.com/track/0ZodePAbTlCnYHG4unq4yP) | I.N | 1,368,295 | 8,230 | 50,967 |
-| 73 | [Here Always - Instrumental](https://open.spotify.com/track/6W0opcAxxH4LmLjiyafIyl) | Seungmin | 1,115,472 | 422 | 3,160 |
-| 74 | [START! - Instrumental](https://open.spotify.com/track/7xUu5XhIGzuZspFp5v3VqG) | Lee Know, Seungmin, I.N | 952,652 | 1,087 | 7,100 |
-| 75 | [NO RETURN](https://open.spotify.com/track/0NGsyPI6OaToB8UJVUCOCE) | I.N | 889,769 | 279,333 | — |
-| 76 | [Close to You - Instrumental](https://open.spotify.com/track/0xPvtBJUdCkmpsrZlRgzlK) | Seungmin | 627,100 | 242 | 2,313 |
-| 77 | [All I Want Is You (Would You Marry Me? : Original Television Soundtrack) (Instrumental)](https://open.spotify.com/track/4a1iTLDaPc2zr4aFytWdlk) | Seungmin | 554,262 | 329 | 2,278 |
-| 78 | [Phobia - Inst.](https://open.spotify.com/track/7csvC3x3v0I71Wx0RVcWNQ) | Seungmin | 529,208 | 429 | 3,338 |
-| 79 | [Updraft - Instrumental](https://open.spotify.com/track/7qWwaYtPNXos5svnSWM7M8) | HAN | 517,177 | 459 | 3,971 |
-| 80 | [ReawakeR -Instrumental- (feat. Felix of Stray Kids)](https://open.spotify.com/track/7rEuqqvCbycwOfXy4lKBMp) | LiSA, Felix | 487,453 | 461 | 3,701 |
-| 81 | [Let It Show (Instrumental)](https://open.spotify.com/track/7DtkUGsPCKRRGXbWyaOE4M) | HAN | 394,668 | 490 | 2,751 |
-| 82 | [Destiny - Instrumental](https://open.spotify.com/track/6kBtnIKoYiFaKocEAjWqrE) | Seungmin | 307,759 | 210 | 1,502 |
-| 83 | [My Destiny - Instrumental](https://open.spotify.com/track/1wKT6EERQcborHg2nAZh1z) | Seungmin | 305,967 | 273 | 1,710 |
-| 84 | [GUILTY PLEASURE (Inst.)](https://open.spotify.com/track/67HOYw6sTfDpyQW5qozhfY) | I.N | 189,474 | 5,171 | 44,730 |
+| 1 | [ReawakeR (feat. Felix of Stray Kids)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | LiSA, Felix of Stray Kids | 113,061,013 | 71,963 | 490,043 |
+| 2 | [Unfair (Felix)](https://open.spotify.com/track/15fpZUMOQD9ONTjxITFXFT) | Stray Kids | 96,038,642 | 57,384 | 407,138 |
+| 3 | [Railway (Bang Chan)](https://open.spotify.com/track/3sN9AWbeDXQ0AeRlfyriX2) | Stray Kids | 84,041,243 | 57,987 | 404,954 |
+| 4 | [Mirror Mirror](https://open.spotify.com/track/59WuWdDH06AYXgdoMENEa3) | F.HERO, MILLI, Changbin | 82,305,479 | 22,890 | 151,569 |
+| 5 | [Truman (HAN & Felix)](https://open.spotify.com/track/4DEbsCe0w8CrwdMm8WpdzO) | Stray Kids | 75,695,855 | 53,904 | 395,586 |
+| 6 | [So Good (Hyunjin)](https://open.spotify.com/track/18CEEhZoQBHBiGfGANm0zJ) | Stray Kids | 70,888,985 | 40,267 | 288,635 |
+| 7 | [ESCAPE (Bang Chan & Hyunjin)](https://open.spotify.com/track/5v6c5XtD3zKPvgUknF7h9K) | Stray Kids | 70,147,234 | 59,428 | 415,919 |
+| 8 | [Rush (feat. PinkPantheress & Hyunjin of Stray Kids)](https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc) | Troye Sivan, PinkPantheress, Hyunjin | 68,752,404 | 30,629 | 208,430 |
+| 9 | [Hold my hand (HAN)](https://open.spotify.com/track/6U9CTAof4KBnyzDt8OYY75) | Stray Kids | 63,787,731 | 46,503 | 364,538 |
+| 10 | [Youth (Lee Know)](https://open.spotify.com/track/6fOLPHRGb6putSY6xFk45t) | Stray Kids | 59,929,601 | 44,327 | 345,523 |
+| 11 | [Deep end (Felix)](https://open.spotify.com/track/3VMeAc0SlgLaS9RzA8TSxH) | Stray Kids | 58,554,031 | 19,403 | 138,576 |
+| 12 | [Maknae On Top (I.N)](https://open.spotify.com/track/1J0qupz0gVGSB5jcRY35tL) | Stray Kids, I.N, Bang Chan, Changbin | 54,633,410 | 30,240 | 205,935 |
+| 13 | [HALLUCINATION (I.N)](https://open.spotify.com/track/6tVyzdoIKEtPQmhC1oZB7d) | Stray Kids | 54,468,053 | 41,253 | 301,539 |
+| 14 | [Drive (Bang Chan, Lee Know)](https://open.spotify.com/track/0hLvtmoexLKl14LrzxOYRt) | Stray Kids | 52,178,209 | 22,716 | 161,994 |
+| 15 | [Limbo (Lee Know)](https://open.spotify.com/track/0nuXhivBOFDiriWCpdyU93) | Stray Kids | 50,295,300 | 23,262 | 167,833 |
+| 16 | [CINEMA (Lee Know & Seungmin)](https://open.spotify.com/track/2StQuhn6KdemQlwsvLgwBy) | Stray Kids | 47,565,825 | 46,533 | 335,435 |
+| 17 | [Burnin’ Tires (Changbin & I.N)](https://open.spotify.com/track/4Sz5KwMxHQnJPf64wJW5aq) | Stray Kids | 46,648,974 | 38,509 | 270,925 |
+| 18 | [Here Always](https://open.spotify.com/track/2WdnAdw7zpgU0FRkGiRV8n) | Seungmin | 45,754,836 | 10,834 | 74,450 |
+| 19 | [As we are (Seungmin)](https://open.spotify.com/track/1QhF4HWFQ3YFzFOuWUpDP0) | Stray Kids | 40,416,034 | 28,805 | 226,450 |
+| 20 | [Connected (Bang Chan)](https://open.spotify.com/track/5iEXsQlfmHmw6GE46lM0Pl) | Stray Kids | 39,749,275 | 13,408 | 95,235 |
+| 21 | [ULTRA (Changbin)](https://open.spotify.com/track/7kgRKpUaw2kQOAUL5XyxLP) | Stray Kids | 38,248,109 | 23,059 | 186,697 |
+| 22 | [i hate to admit (Bang Chan)](https://open.spotify.com/track/6Yg9E0Pm1sgtbzeZBuZN08) | Stray Kids | 37,707,145 | 21,015 | 140,495 |
+| 23 | [Stars and Raindrops (Seungmin)](https://open.spotify.com/track/5kFGqKqHzVVMMI7V7uoID1) | Stray Kids | 35,393,877 | 13,916 | 99,958 |
+| 24 | [Up All Night (Bang Chan, Changbin, Felix, Seungmin)](https://open.spotify.com/track/0bxB5Jie9fGKTIibfYVfei) | Stray Kids | 33,573,494 | 19,338 | 138,992 |
+| 25 | [Phobia](https://open.spotify.com/track/4LMJ8X3a5hNA508YBUJnie) | Seungmin | 32,207,620 | 27,170 | 193,490 |
+| 26 | [Because (Changbin, Felix)](https://open.spotify.com/track/1Iu7bqGwYVB6OGq4uLt2ak) | Stray Kids | 30,580,081 | 14,979 | 106,095 |
+| 27 | [ice.cream (Hyunjin)](https://open.spotify.com/track/07x9Jr01lqjlFycZsfKBae) | Stray Kids | 28,683,557 | 12,081 | 87,874 |
+| 28 | [miss you (Hyunjin)](https://open.spotify.com/track/1BwFLLe233S6HR1ravS3yi) | Stray Kids | 27,892,380 | 12,555 | 88,578 |
+| 29 | [Love Untold (Hyunjin)](https://open.spotify.com/track/1SrsEuRiRoopW2pZDaHgVA) | Stray Kids | 26,437,190 | 10,475 | 74,112 |
+| 30 | [DOODLE (Changbin)](https://open.spotify.com/track/786A4mxiKmPGHA7z7dPA9K) | Stray Kids | 26,324,499 | 6,857 | 47,539 |
+| 31 | [Alien (HAN)](https://open.spotify.com/track/3czfvJgfEDfBT5OKA5qAU5) | Stray Kids | 26,318,815 | 13,529 | 98,889 |
+| 32 | [I GOT IT (HAN)](https://open.spotify.com/track/4atsZkGtoHHPugKK5wzAE1) | Stray Kids | 24,530,979 | 10,180 | 71,168 |
+| 33 | [ZONE (Bang Chan, Changbin, HAN)](https://open.spotify.com/track/56ZpFy1kLsXwtbHWX1CgJ4) | Stray Kids | 24,189,600 | 9,241 | 63,735 |
+| 34 | [Hug Me (I.N)](https://open.spotify.com/track/5gXUFmE5AKFiInKyHVVEnL) | Stray Kids | 23,527,891 | 9,784 | 67,558 |
+| 35 | [RUN (HAN)](https://open.spotify.com/track/4jjaOnFqtAyiYmP7PdTJbO) | Stray Kids | 22,181,288 | 8,391 | 58,441 |
+| 36 | [Close (HAN)](https://open.spotify.com/track/7jcpg7osgYWffx9LmLEoZ4) | Stray Kids | 21,704,165 | 9,527 | 67,209 |
+| 37 | [Wish You Back (HAN)](https://open.spotify.com/track/1ifB8sqR8gd09DSEloo4Du) | Stray Kids | 21,258,587 | 10,073 | 70,412 |
+| 38 | [back to life](https://open.spotify.com/track/0JvJ526shHypEYoxFuU54V) | HAN | 21,168,605 | 90,869 | 650,375 |
+| 39 | [Streetlight (Changbin Feat. Bang Chan)](https://open.spotify.com/track/1Z6NmeYIfN4e8TuEYLFTKL) | Stray Kids | 20,732,702 | 9,307 | 61,444 |
+| 40 | [HaPpY (HAN)](https://open.spotify.com/track/2KHgPAJycXwbZ2S1xuUT9T) | Stray Kids | 17,977,181 | 7,817 | 56,659 |
+| 41 | [Piece of a Puzzle (Changbin, Seungmin)](https://open.spotify.com/track/56uBQujWiOiFMFg1R3TZUJ) | Stray Kids | 17,671,719 | 8,333 | 61,162 |
+| 42 | [Destiny](https://open.spotify.com/track/0eIk5JEHEkVcVrIObqd63v) | Seungmin | 16,524,967 | 9,387 | 62,842 |
+| 43 | [GENIE](https://open.spotify.com/track/3B1kVUGFALavXUt8s9L65V) | HAN, Felix, I.N | 15,079,902 | 20,991 | 155,400 |
+| 44 | [Close to You](https://open.spotify.com/track/6JWBfjrCBDXKtFM1ViEAYU) | Seungmin | 14,620,060 | 7,714 | 53,682 |
+| 45 | [START!](https://open.spotify.com/track/4fdxYCWRK0YXkxepMKsCDG) | Lee Know, Seungmin, I.N | 14,329,055 | 11,929 | 81,759 |
+| 46 | [Updraft](https://open.spotify.com/track/6R5DcaBpYwKdscbXLrzKD3) | HAN | 13,326,025 | 21,615 | 160,255 |
+| 47 | [Slow It Down](https://open.spotify.com/track/381koCmG9eapKdQcRnlRJO) | Felix | 12,690,136 | 78,587 | 550,915 |
+| 48 | [My Destiny](https://open.spotify.com/track/1HYUurIQFLGkgBqE8fd7XH) | Seungmin | 12,380,312 | 10,741 | 72,071 |
+| 49 | [VAY (feat. Changbin)](https://open.spotify.com/track/1V3Zn1TUGzYui1WCVa04ES) | ITZY, Changbin | 11,490,113 | 6,183 | 38,837 |
+| 50 | [LOVER](https://open.spotify.com/track/0Y3PfZNRWl9x1sR50310x0) | Stray Kids | 9,123,279 | 57,125 | 390,432 |
+| 51 | [can't love (feat. HAN (Stray Kids))](https://open.spotify.com/track/1ZuQU3QRHK6NERlaStE0kJ) | can't be blue, HAN | 8,716,922 | 25,915 | 175,589 |
+| 52 | [All I Want Is You (Would You Marry Me? : Original Television Soundtrack)](https://open.spotify.com/track/0x2UMXeCj1in1Q8Zs588lh) | Seungmin | 8,325,338 | 8,868 | 60,713 |
+| 53 | [Let It Show](https://open.spotify.com/track/7rw9yCuNFOqWT0P7rOywgA) | HAN | 7,196,464 | 13,658 | 95,838 |
+| 54 | [REV IT UP](https://open.spotify.com/track/4SRazOO5fe9euHlRcCajIs) | Stray Kids | 6,823,397 | 23,289 | 170,667 |
+| 55 | [Roman Empire](https://open.spotify.com/track/5iYtGMxoTGFGJJtNGefnxt) | Stray Kids | 6,774,971 | 37,050 | 261,963 |
+| 56 | [R&B ME](https://open.spotify.com/track/2wM7umhsdzsrJXg9E8kMMA) | JUN. K, Changbin of Stray Kids | 6,238,749 | 4,563 | 32,219 |
+| 57 | [Middle School 2nd Year (Respect Everyone's Universe)](https://open.spotify.com/track/54JLvGY4q0rsPjbMVvX8HJ) | Kim Chang-Wan, Changbin | 5,417,272 | 2,221 | 17,342 |
+| 58 | [Raining stars](https://open.spotify.com/track/2PloaQw7yKtblu7k2UGU2f) | HAN | 5,367,753 | 37,905 | 266,511 |
+| 59 | [You…Like the wind](https://open.spotify.com/track/1GSWFtZVqnu7iIZPT8ovDM) | Yoon Jisung, Changbin | 4,502,121 | 2,632 | 19,954 |
+| 60 | [Goodbye](https://open.spotify.com/track/0QMz125TrfcQgIw52A3b7a) | Stray Kids | 4,473,221 | 24,152 | 183,604 |
+| 61 | [ReawakeR -English TV ver.- (feat. Felix of Stray Kids)](https://open.spotify.com/track/0EeObg84Go4u3JxB7PUwmp) | LiSA, Felix | 4,416,518 | 3,226 | 24,291 |
+| 62 | [BABY](https://open.spotify.com/track/5hfqzdorco41BCVvJJFQfl) | Stray Kids | 4,342,205 | 24,805 | 177,311 |
+| 63 | [Don’t Say](https://open.spotify.com/track/7vWb889LhNVjIqji3lJZNb) | Stray Kids | 3,800,255 | 19,715 | 141,117 |
+| 64 | [MIC&BRUSH](https://open.spotify.com/track/3h6kvdDczFSkIrcEOdRyTE) | Stray Kids | 3,791,371 | 21,658 | 153,777 |
+| 65 | [The Little Things](https://open.spotify.com/track/6qY41KgIJAaEkWq80mx0vw) | I.N | 2,952,647 | 20,565 | 147,791 |
+| 66 | [Into The Current](https://open.spotify.com/track/0q6r12Fp0O4uzBUTMBMxre) | Seungmin | 2,884,596 | 18,333 | 129,427 |
+| 67 | [Still here](https://open.spotify.com/track/1bpPBNlzoK8ihJ8C2p8ZhX) | Seungmin | 2,515,405 | 15,498 | 107,016 |
+| 68 | [PERFUME](https://open.spotify.com/track/0N29SZJG3H51ykVwPFmsLc) | Stray Kids | 2,425,526 | 12,159 | 83,912 |
+| 69 | [Limbo - (Live)](https://open.spotify.com/track/2khETXPMAQ4noxnk6vd82T) | Lee Know | 2,344,159 | 14,925 | 99,928 |
+| 70 | [My Name](https://open.spotify.com/track/0RXXnzoq8YjYVySeU8aQ9c) | Changbin | 2,188,436 | 12,161 | 85,227 |
+| 71 | [GUILTY PLEASURE](https://open.spotify.com/track/2juf9ePyItPtxRikXNIuI6) | I.N | 1,418,477 | 41,976 | 423,607 |
+| 72 | [Hug Me - (Live)](https://open.spotify.com/track/0ZodePAbTlCnYHG4unq4yP) | I.N | 1,375,176 | 6,881 | 50,631 |
+| 73 | [NO RETURN](https://open.spotify.com/track/0NGsyPI6OaToB8UJVUCOCE) | I.N | 1,225,844 | 336,075 | — |
+| 74 | [Here Always - Instrumental](https://open.spotify.com/track/6W0opcAxxH4LmLjiyafIyl) | Seungmin | 1,115,803 | 331 | 3,002 |
+| 75 | [START! - Instrumental](https://open.spotify.com/track/7xUu5XhIGzuZspFp5v3VqG) | Lee Know, Seungmin, I.N | 953,585 | 933 | 7,227 |
+| 76 | [Close to You - Instrumental](https://open.spotify.com/track/0xPvtBJUdCkmpsrZlRgzlK) | Seungmin | 627,382 | 282 | 2,210 |
+| 77 | [All I Want Is You (Would You Marry Me? : Original Television Soundtrack) (Instrumental)](https://open.spotify.com/track/4a1iTLDaPc2zr4aFytWdlk) | Seungmin | 554,487 | 225 | 2,192 |
+| 78 | [Phobia - Inst.](https://open.spotify.com/track/7csvC3x3v0I71Wx0RVcWNQ) | Seungmin | 529,588 | 380 | 3,257 |
+| 79 | [Updraft - Instrumental](https://open.spotify.com/track/7qWwaYtPNXos5svnSWM7M8) | HAN | 517,643 | 466 | 3,779 |
+| 80 | [ReawakeR -Instrumental- (feat. Felix of Stray Kids)](https://open.spotify.com/track/7rEuqqvCbycwOfXy4lKBMp) | LiSA, Felix | 487,972 | 519 | 3,643 |
+| 81 | [Let It Show (Instrumental)](https://open.spotify.com/track/7DtkUGsPCKRRGXbWyaOE4M) | HAN | 394,993 | 325 | 2,743 |
+| 82 | [Destiny - Instrumental](https://open.spotify.com/track/6kBtnIKoYiFaKocEAjWqrE) | Seungmin | 307,944 | 185 | 1,436 |
+| 83 | [My Destiny - Instrumental](https://open.spotify.com/track/1wKT6EERQcborHg2nAZh1z) | Seungmin | 306,191 | 224 | 1,723 |
+| 84 | [GUILTY PLEASURE (Inst.)](https://open.spotify.com/track/67HOYw6sTfDpyQW5qozhfY) | I.N | 193,219 | 3,745 | 39,959 |
 
 ## Top 50 by daily streams
 
-Streams gained from 2026-11-20 to 2026-11-21, among all 84 tracked songs. The change compares them with the streams gained the day before.
+Streams gained from 2026-11-21 to 2026-11-22, among all 84 tracked songs. The change compares them with the streams gained the day before.
 
 | # | Song | Artist | Daily streams | Change from the day before | Total streams |
 |--:|:--|:--|--:|--:|--:|
-| 1 | [NO RETURN](https://open.spotify.com/track/0NGsyPI6OaToB8UJVUCOCE) | I.N | 279,333 | -47,104 (-14.43%) | 889,769 |
-| 2 | [back to life](https://open.spotify.com/track/0JvJ526shHypEYoxFuU54V) | HAN | 93,555 | -2,244 (-2.34%) | 21,077,736 |
-| 3 | [Slow It Down](https://open.spotify.com/track/381koCmG9eapKdQcRnlRJO) | Felix | 83,255 | -1,778 (-2.09%) | 12,611,549 |
-| 4 | [ReawakeR (feat. Felix of Stray Kids)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | LiSA, Felix of Stray Kids | 73,035 | -271 (-0.37%) | 112,989,050 |
-| 5 | [ESCAPE (Bang Chan & Hyunjin)](https://open.spotify.com/track/5v6c5XtD3zKPvgUknF7h9K) | Stray Kids | 61,716 | +13 (+0.02%) | 70,087,806 |
-| 6 | [Unfair (Felix)](https://open.spotify.com/track/15fpZUMOQD9ONTjxITFXFT) | Stray Kids | 60,303 | -292 (-0.48%) | 95,981,258 |
-| 7 | [Railway (Bang Chan)](https://open.spotify.com/track/3sN9AWbeDXQ0AeRlfyriX2) | Stray Kids | 59,546 | +579 (+0.98%) | 83,983,256 |
-| 8 | [LOVER](https://open.spotify.com/track/0Y3PfZNRWl9x1sR50310x0) | Stray Kids | 58,357 | +1,336 (+2.34%) | 9,066,154 |
-| 9 | [Truman (HAN & Felix)](https://open.spotify.com/track/4DEbsCe0w8CrwdMm8WpdzO) | Stray Kids | 57,723 | -3,554 (-5.80%) | 75,641,951 |
-| 10 | [Hold my hand (HAN)](https://open.spotify.com/track/6U9CTAof4KBnyzDt8OYY75) | Stray Kids | 56,217 | -1,248 (-2.17%) | 63,741,228 |
-| 11 | [Youth (Lee Know)](https://open.spotify.com/track/6fOLPHRGb6putSY6xFk45t) | Stray Kids | 51,036 | -116 (-0.23%) | 59,885,274 |
-| 12 | [GUILTY PLEASURE](https://open.spotify.com/track/2juf9ePyItPtxRikXNIuI6) | I.N | 49,138 | -11,002 (-18.29%) | 1,376,501 |
-| 13 | [CINEMA (Lee Know & Seungmin)](https://open.spotify.com/track/2StQuhn6KdemQlwsvLgwBy) | Stray Kids | 48,747 | -2,550 (-4.97%) | 47,519,292 |
-| 14 | [HALLUCINATION (I.N)](https://open.spotify.com/track/6tVyzdoIKEtPQmhC1oZB7d) | Stray Kids | 44,003 | -1,698 (-3.72%) | 54,426,800 |
-| 15 | [So Good (Hyunjin)](https://open.spotify.com/track/18CEEhZoQBHBiGfGANm0zJ) | Stray Kids | 43,211 | +916 (+2.17%) | 70,848,718 |
-| 16 | [Burnin’ Tires (Changbin & I.N)](https://open.spotify.com/track/4Sz5KwMxHQnJPf64wJW5aq) | Stray Kids | 40,244 | -2,164 (-5.10%) | 46,610,465 |
-| 17 | [Raining stars](https://open.spotify.com/track/2PloaQw7yKtblu7k2UGU2f) | HAN | 39,429 | -926 (-2.29%) | 5,329,848 |
-| 18 | [Roman Empire](https://open.spotify.com/track/5iYtGMxoTGFGJJtNGefnxt) | Stray Kids | 39,183 | +609 (+1.58%) | 6,737,921 |
-| 19 | [As we are (Seungmin)](https://open.spotify.com/track/1QhF4HWFQ3YFzFOuWUpDP0) | Stray Kids | 34,523 | -61 (-0.18%) | 40,387,229 |
-| 20 | [Maknae On Top (I.N)](https://open.spotify.com/track/1J0qupz0gVGSB5jcRY35tL) | Stray Kids, I.N, Bang Chan, Changbin | 30,180 | -423 (-1.38%) | 54,603,170 |
-| 21 | [Rush (feat. PinkPantheress & Hyunjin of Stray Kids)](https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc) | Troye Sivan, PinkPantheress, Hyunjin | 29,907 | -474 (-1.56%) | 68,721,775 |
-| 22 | [ULTRA (Changbin)](https://open.spotify.com/track/7kgRKpUaw2kQOAUL5XyxLP) | Stray Kids | 29,100 | -590 (-1.99%) | 38,225,050 |
-| 23 | [Goodbye](https://open.spotify.com/track/0QMz125TrfcQgIw52A3b7a) | Stray Kids | 28,876 | +1,136 (+4.10%) | 4,449,069 |
-| 24 | [Phobia](https://open.spotify.com/track/4LMJ8X3a5hNA508YBUJnie) | Seungmin | 27,528 | -443 (-1.58%) | 32,180,450 |
-| 25 | [REV IT UP](https://open.spotify.com/track/4SRazOO5fe9euHlRcCajIs) | Stray Kids | 25,867 | +241 (+0.94%) | 6,800,108 |
-| 26 | [Updraft](https://open.spotify.com/track/6R5DcaBpYwKdscbXLrzKD3) | HAN | 24,945 | -283 (-1.12%) | 13,304,410 |
-| 27 | [BABY](https://open.spotify.com/track/5hfqzdorco41BCVvJJFQfl) | Stray Kids | 24,767 | +2,757 (+12.53%) | 4,317,400 |
-| 28 | [Limbo (Lee Know)](https://open.spotify.com/track/0nuXhivBOFDiriWCpdyU93) | Stray Kids | 24,688 | +83 (+0.34%) | 50,272,038 |
-| 29 | [can't love (feat. HAN (Stray Kids))](https://open.spotify.com/track/1ZuQU3QRHK6NERlaStE0kJ) | can't be blue, HAN | 24,465 | -140 (-0.57%) | 8,691,007 |
-| 30 | [MIC&BRUSH](https://open.spotify.com/track/3h6kvdDczFSkIrcEOdRyTE) | Stray Kids | 24,309 | +59 (+0.24%) | 3,769,713 |
-| 31 | [Drive (Bang Chan, Lee Know)](https://open.spotify.com/track/0hLvtmoexLKl14LrzxOYRt) | Stray Kids | 24,215 | +401 (+1.68%) | 52,155,493 |
-| 32 | [Mirror Mirror](https://open.spotify.com/track/59WuWdDH06AYXgdoMENEa3) | F.HERO, MILLI, Changbin | 23,511 | +920 (+4.07%) | 82,282,589 |
-| 33 | [The Little Things](https://open.spotify.com/track/6qY41KgIJAaEkWq80mx0vw) | I.N | 22,340 | -1,509 (-6.33%) | 2,932,082 |
-| 34 | [GENIE](https://open.spotify.com/track/3B1kVUGFALavXUt8s9L65V) | HAN, Felix, I.N | 21,829 | -951 (-4.17%) | 15,058,911 |
-| 35 | [i hate to admit (Bang Chan)](https://open.spotify.com/track/6Yg9E0Pm1sgtbzeZBuZN08) | Stray Kids | 21,709 | +580 (+2.75%) | 37,686,130 |
-| 36 | [Into The Current](https://open.spotify.com/track/0q6r12Fp0O4uzBUTMBMxre) | Seungmin | 20,618 | +1,247 (+6.44%) | 2,866,263 |
-| 37 | [Don’t Say](https://open.spotify.com/track/7vWb889LhNVjIqji3lJZNb) | Stray Kids | 20,429 | +679 (+3.44%) | 3,780,540 |
-| 38 | [Deep end (Felix)](https://open.spotify.com/track/3VMeAc0SlgLaS9RzA8TSxH) | Stray Kids | 20,278 | -351 (-1.70%) | 58,534,628 |
-| 39 | [Up All Night (Bang Chan, Changbin, Felix, Seungmin)](https://open.spotify.com/track/0bxB5Jie9fGKTIibfYVfei) | Stray Kids | 19,507 | -559 (-2.79%) | 33,554,156 |
-| 40 | [Still here](https://open.spotify.com/track/1bpPBNlzoK8ihJ8C2p8ZhX) | Seungmin | 17,195 | -510 (-2.88%) | 2,499,907 |
-| 41 | [Limbo - (Live)](https://open.spotify.com/track/2khETXPMAQ4noxnk6vd82T) | Lee Know | 16,331 | +1,201 (+7.94%) | 2,329,234 |
-| 42 | [Because (Changbin, Felix)](https://open.spotify.com/track/1Iu7bqGwYVB6OGq4uLt2ak) | Stray Kids | 16,127 | +268 (+1.69%) | 30,565,102 |
-| 43 | [Connected (Bang Chan)](https://open.spotify.com/track/5iEXsQlfmHmw6GE46lM0Pl) | Stray Kids | 15,322 | +578 (+3.92%) | 39,735,867 |
-| 44 | [Let It Show](https://open.spotify.com/track/7rw9yCuNFOqWT0P7rOywgA) | HAN | 14,728 | -384 (-2.54%) | 7,182,806 |
-| 45 | [Stars and Raindrops (Seungmin)](https://open.spotify.com/track/5kFGqKqHzVVMMI7V7uoID1) | Stray Kids | 14,505 | -365 (-2.45%) | 35,379,961 |
-| 46 | [Alien (HAN)](https://open.spotify.com/track/3czfvJgfEDfBT5OKA5qAU5) | Stray Kids | 14,421 | -95 (-0.65%) | 26,305,286 |
-| 47 | [My Name](https://open.spotify.com/track/0RXXnzoq8YjYVySeU8aQ9c) | Changbin | 13,458 | +1,378 (+11.41%) | 2,176,275 |
-| 48 | [miss you (Hyunjin)](https://open.spotify.com/track/1BwFLLe233S6HR1ravS3yi) | Stray Kids | 13,069 | -278 (-2.08%) | 27,879,825 |
-| 49 | [ice.cream (Hyunjin)](https://open.spotify.com/track/07x9Jr01lqjlFycZsfKBae) | Stray Kids | 12,699 | -267 (-2.06%) | 28,671,476 |
-| 50 | [PERFUME](https://open.spotify.com/track/0N29SZJG3H51ykVwPFmsLc) | Stray Kids | 12,078 | -61 (-0.50%) | 2,413,367 |
+| 1 | [NO RETURN](https://open.spotify.com/track/0NGsyPI6OaToB8UJVUCOCE) | I.N | 336,075 | +56,742 (+20.31%) | 1,225,844 |
+| 2 | [back to life](https://open.spotify.com/track/0JvJ526shHypEYoxFuU54V) | HAN | 90,869 | -2,686 (-2.87%) | 21,168,605 |
+| 3 | [Slow It Down](https://open.spotify.com/track/381koCmG9eapKdQcRnlRJO) | Felix | 78,587 | -4,668 (-5.61%) | 12,690,136 |
+| 4 | [ReawakeR (feat. Felix of Stray Kids)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | LiSA, Felix of Stray Kids | 71,963 | -1,072 (-1.47%) | 113,061,013 |
+| 5 | [ESCAPE (Bang Chan & Hyunjin)](https://open.spotify.com/track/5v6c5XtD3zKPvgUknF7h9K) | Stray Kids | 59,428 | -2,288 (-3.71%) | 70,147,234 |
+| 6 | [Railway (Bang Chan)](https://open.spotify.com/track/3sN9AWbeDXQ0AeRlfyriX2) | Stray Kids | 57,987 | -1,559 (-2.62%) | 84,041,243 |
+| 7 | [Unfair (Felix)](https://open.spotify.com/track/15fpZUMOQD9ONTjxITFXFT) | Stray Kids | 57,384 | -2,919 (-4.84%) | 96,038,642 |
+| 8 | [LOVER](https://open.spotify.com/track/0Y3PfZNRWl9x1sR50310x0) | Stray Kids | 57,125 | -1,232 (-2.11%) | 9,123,279 |
+| 9 | [Truman (HAN & Felix)](https://open.spotify.com/track/4DEbsCe0w8CrwdMm8WpdzO) | Stray Kids | 53,904 | -3,819 (-6.62%) | 75,695,855 |
+| 10 | [CINEMA (Lee Know & Seungmin)](https://open.spotify.com/track/2StQuhn6KdemQlwsvLgwBy) | Stray Kids | 46,533 | -2,214 (-4.54%) | 47,565,825 |
+| 11 | [Hold my hand (HAN)](https://open.spotify.com/track/6U9CTAof4KBnyzDt8OYY75) | Stray Kids | 46,503 | -9,714 (-17.28%) | 63,787,731 |
+| 12 | [Youth (Lee Know)](https://open.spotify.com/track/6fOLPHRGb6putSY6xFk45t) | Stray Kids | 44,327 | -6,709 (-13.15%) | 59,929,601 |
+| 13 | [GUILTY PLEASURE](https://open.spotify.com/track/2juf9ePyItPtxRikXNIuI6) | I.N | 41,976 | -7,162 (-14.58%) | 1,418,477 |
+| 14 | [HALLUCINATION (I.N)](https://open.spotify.com/track/6tVyzdoIKEtPQmhC1oZB7d) | Stray Kids | 41,253 | -2,750 (-6.25%) | 54,468,053 |
+| 15 | [So Good (Hyunjin)](https://open.spotify.com/track/18CEEhZoQBHBiGfGANm0zJ) | Stray Kids | 40,267 | -2,944 (-6.81%) | 70,888,985 |
+| 16 | [Burnin’ Tires (Changbin & I.N)](https://open.spotify.com/track/4Sz5KwMxHQnJPf64wJW5aq) | Stray Kids | 38,509 | -1,735 (-4.31%) | 46,648,974 |
+| 17 | [Raining stars](https://open.spotify.com/track/2PloaQw7yKtblu7k2UGU2f) | HAN | 37,905 | -1,524 (-3.87%) | 5,367,753 |
+| 18 | [Roman Empire](https://open.spotify.com/track/5iYtGMxoTGFGJJtNGefnxt) | Stray Kids | 37,050 | -2,133 (-5.44%) | 6,774,971 |
+| 19 | [Rush (feat. PinkPantheress & Hyunjin of Stray Kids)](https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc) | Troye Sivan, PinkPantheress, Hyunjin | 30,629 | +722 (+2.41%) | 68,752,404 |
+| 20 | [Maknae On Top (I.N)](https://open.spotify.com/track/1J0qupz0gVGSB5jcRY35tL) | Stray Kids, I.N, Bang Chan, Changbin | 30,240 | +60 (+0.20%) | 54,633,410 |
+| 21 | [As we are (Seungmin)](https://open.spotify.com/track/1QhF4HWFQ3YFzFOuWUpDP0) | Stray Kids | 28,805 | -5,718 (-16.56%) | 40,416,034 |
+| 22 | [Phobia](https://open.spotify.com/track/4LMJ8X3a5hNA508YBUJnie) | Seungmin | 27,170 | -358 (-1.30%) | 32,207,620 |
+| 23 | [can't love (feat. HAN (Stray Kids))](https://open.spotify.com/track/1ZuQU3QRHK6NERlaStE0kJ) | can't be blue, HAN | 25,915 | +1,450 (+5.93%) | 8,716,922 |
+| 24 | [BABY](https://open.spotify.com/track/5hfqzdorco41BCVvJJFQfl) | Stray Kids | 24,805 | +38 (+0.15%) | 4,342,205 |
+| 25 | [Goodbye](https://open.spotify.com/track/0QMz125TrfcQgIw52A3b7a) | Stray Kids | 24,152 | -4,724 (-16.36%) | 4,473,221 |
+| 26 | [REV IT UP](https://open.spotify.com/track/4SRazOO5fe9euHlRcCajIs) | Stray Kids | 23,289 | -2,578 (-9.97%) | 6,823,397 |
+| 27 | [Limbo (Lee Know)](https://open.spotify.com/track/0nuXhivBOFDiriWCpdyU93) | Stray Kids | 23,262 | -1,426 (-5.78%) | 50,295,300 |
+| 28 | [ULTRA (Changbin)](https://open.spotify.com/track/7kgRKpUaw2kQOAUL5XyxLP) | Stray Kids | 23,059 | -6,041 (-20.76%) | 38,248,109 |
+| 29 | [Mirror Mirror](https://open.spotify.com/track/59WuWdDH06AYXgdoMENEa3) | F.HERO, MILLI, Changbin | 22,890 | -621 (-2.64%) | 82,305,479 |
+| 30 | [Drive (Bang Chan, Lee Know)](https://open.spotify.com/track/0hLvtmoexLKl14LrzxOYRt) | Stray Kids | 22,716 | -1,499 (-6.19%) | 52,178,209 |
+| 31 | [MIC&BRUSH](https://open.spotify.com/track/3h6kvdDczFSkIrcEOdRyTE) | Stray Kids | 21,658 | -2,651 (-10.91%) | 3,791,371 |
+| 32 | [Updraft](https://open.spotify.com/track/6R5DcaBpYwKdscbXLrzKD3) | HAN | 21,615 | -3,330 (-13.35%) | 13,326,025 |
+| 33 | [i hate to admit (Bang Chan)](https://open.spotify.com/track/6Yg9E0Pm1sgtbzeZBuZN08) | Stray Kids | 21,015 | -694 (-3.20%) | 37,707,145 |
+| 34 | [GENIE](https://open.spotify.com/track/3B1kVUGFALavXUt8s9L65V) | HAN, Felix, I.N | 20,991 | -838 (-3.84%) | 15,079,902 |
+| 35 | [The Little Things](https://open.spotify.com/track/6qY41KgIJAaEkWq80mx0vw) | I.N | 20,565 | -1,775 (-7.95%) | 2,952,647 |
+| 36 | [Don’t Say](https://open.spotify.com/track/7vWb889LhNVjIqji3lJZNb) | Stray Kids | 19,715 | -714 (-3.50%) | 3,800,255 |
+| 37 | [Deep end (Felix)](https://open.spotify.com/track/3VMeAc0SlgLaS9RzA8TSxH) | Stray Kids | 19,403 | -875 (-4.32%) | 58,554,031 |
+| 38 | [Up All Night (Bang Chan, Changbin, Felix, Seungmin)](https://open.spotify.com/track/0bxB5Jie9fGKTIibfYVfei) | Stray Kids | 19,338 | -169 (-0.87%) | 33,573,494 |
+| 39 | [Into The Current](https://open.spotify.com/track/0q6r12Fp0O4uzBUTMBMxre) | Seungmin | 18,333 | -2,285 (-11.08%) | 2,884,596 |
+| 40 | [Still here](https://open.spotify.com/track/1bpPBNlzoK8ihJ8C2p8ZhX) | Seungmin | 15,498 | -1,697 (-9.87%) | 2,515,405 |
+| 41 | [Because (Changbin, Felix)](https://open.spotify.com/track/1Iu7bqGwYVB6OGq4uLt2ak) | Stray Kids | 14,979 | -1,148 (-7.12%) | 30,580,081 |
+| 42 | [Limbo - (Live)](https://open.spotify.com/track/2khETXPMAQ4noxnk6vd82T) | Lee Know | 14,925 | -1,406 (-8.61%) | 2,344,159 |
+| 43 | [Stars and Raindrops (Seungmin)](https://open.spotify.com/track/5kFGqKqHzVVMMI7V7uoID1) | Stray Kids | 13,916 | -589 (-4.06%) | 35,393,877 |
+| 44 | [Let It Show](https://open.spotify.com/track/7rw9yCuNFOqWT0P7rOywgA) | HAN | 13,658 | -1,070 (-7.27%) | 7,196,464 |
+| 45 | [Alien (HAN)](https://open.spotify.com/track/3czfvJgfEDfBT5OKA5qAU5) | Stray Kids | 13,529 | -892 (-6.19%) | 26,318,815 |
+| 46 | [Connected (Bang Chan)](https://open.spotify.com/track/5iEXsQlfmHmw6GE46lM0Pl) | Stray Kids | 13,408 | -1,914 (-12.49%) | 39,749,275 |
+| 47 | [miss you (Hyunjin)](https://open.spotify.com/track/1BwFLLe233S6HR1ravS3yi) | Stray Kids | 12,555 | -514 (-3.93%) | 27,892,380 |
+| 48 | [My Name](https://open.spotify.com/track/0RXXnzoq8YjYVySeU8aQ9c) | Changbin | 12,161 | -1,297 (-9.64%) | 2,188,436 |
+| 49 | [PERFUME](https://open.spotify.com/track/0N29SZJG3H51ykVwPFmsLc) | Stray Kids | 12,159 | +81 (+0.67%) | 2,425,526 |
+| 50 | [ice.cream (Hyunjin)](https://open.spotify.com/track/07x9Jr01lqjlFycZsfKBae) | Stray Kids | 12,081 | -618 (-4.87%) | 28,683,557 |
 
 ## Data
 
